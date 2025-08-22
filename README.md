@@ -10,7 +10,7 @@
 ## 🚀 Projetos em destaque
 
 - Sistema Bancário em Python — projeto modular com controle de usuários, contas, depósitos, saques e extratos.  
-- Projeto C# — CRUD básico para clientes e contas, com foco em estrutura e boas práticas.  
+
 
 ---
 

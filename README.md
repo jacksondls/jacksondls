@@ -16,9 +16,9 @@
 
 ## 🛠️ Tecnologias e skills
 
-- Linguagens: Python, C#  
+- Linguagens: Python, C#, JavaScript
 - Controle de versão: Git e GitHub  
-- Banco de dados: SQL, NoSQL, MongoDB (em aprendizado no bootcamp Santander)  
+- Banco de dados: SQL, NoSQL, MongoDB 
 - Testes: Conhecimentos iniciais em QA  
 - Metodologias ágeis: Scrum (familiar)  
 

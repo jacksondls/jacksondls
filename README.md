@@ -1,40 +1,58 @@
-# 👋 Olá, eu sou o Jackson!
+#  Olá, eu sou o Jackson!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/seu-perfil)](https://linkedin.com/in/seu-perfil)  
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white&link=https://github.com/seu-usuario)](https://github.com/seu-usuario)  
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)  
-[![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
+Sou **desenvolvedor Back-end em formação**, estudante de **Análise e Desenvolvimento de Sistemas**, com foco em lógica de programação, organização de código e construção de aplicações server-side.
 
----
-
-## 🚀 Projetos em destaque
-
-- Sistema Bancário em Python — projeto modular com controle de usuários, contas, depósitos, saques e extratos.  
-
+Atualmente desenvolvo projetos práticos para consolidar meus conhecimentos e construir um portfólio voltado ao **Back-end**.
 
 ---
 
-## 🛠️ Tecnologias e skills
+##  Tecnologias Back-end
 
-- Linguagens: Python, C#, JavaScript
-- Controle de versão: Git e GitHub  
-- Banco de dados: SQL, NoSQL, MongoDB 
-- Testes: Conhecimentos iniciais em QA  
-- Metodologias ágeis: Scrum (familiar)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
----
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🎯 Objetivo
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Buscando oportunidade para aplicar meus conhecimentos e crescer como desenvolvedor e QA.
-
----
-
-## 📫 Contato
-
-- LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/jackson-silva-05baaa20a/)  
-- Email: jacksondlsiilva@gmail.com  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-> Vamos codar e construir o futuro juntos! 🚀
+##  Projetos em destaque
+
+###  Sistema Bancário em Python
+Aplicação Back-end desenvolvida em Python, simulando um sistema bancário com foco em **lógica**, **modularização** e **boas práticas**.
+
+**Funcionalidades:**
+- Cadastro e gerenciamento de usuários
+- Criação e controle de contas bancárias
+- Depósitos, saques e extratos
+- Código organizado em módulos
+
+ Projeto criado para reforçar conceitos fundamentais de desenvolvimento Back-end.
+
+---
+
+##  Principais conhecimentos
+- Desenvolvimento Back-end
+- Programação orientada a objetos
+- Integração com bancos de dados
+- Versionamento de código com Git
+- Containerização com Docker (conceitos iniciais)
+
+
+---
+
+##  Objetivo profissional
+
+Busco uma oportunidade como **desenvolvedor Back-end (estágio ou júnior)**, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções bem estruturadas e de qualidade.
+
+---
+
+##  Contato
+
+- 💼 LinkedIn: https://linkedin.com/in/jackson-silva-05baaa20a/
+- 📧 Email: jacksondlsiilva@gmail.com

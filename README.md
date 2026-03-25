@@ -1,58 +1,70 @@
-#  Olá, eu sou o Jackson!
+<h1 align="center">Hi, Devs! 👋</h1>
 
-Sou **desenvolvedor Back-end em formação**, estudante de **Análise e Desenvolvimento de Sistemas**, com foco em lógica de programação, organização de código e construção de aplicações server-side.
-
-Atualmente desenvolvo projetos práticos para consolidar meus conhecimentos e construir um portfólio voltado ao **Back-end**.
-
----
-
-##  Tecnologias Back-end
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="center">
+   Backend Developer em evolução <br/>
+   Focado em C#/.NET, Python, Django e APIs REST <br/>
+   Em busca da primeira oportunidade na área
+</p>
 
 ---
 
-##  Projetos em destaque
+##  Sobre Mim
 
-###  Sistema Bancário em Python
-Aplicação Back-end desenvolvida em Python, simulando um sistema bancário com foco em **lógica**, **modularização** e **boas práticas**.
+Hey! Sou o Jackson 
 
-**Funcionalidades:**
-- Cadastro e gerenciamento de usuários
-- Criação e controle de contas bancárias
-- Depósitos, saques e extratos
-- Código organizado em módulos
+Atualmente estudo Análise e Desenvolvimento de Sistemas e venho construindo projetos práticos com foco em backend.
 
- Projeto criado para reforçar conceitos fundamentais de desenvolvimento Back-end.
+Tenho experiência no desenvolvimento de APIs REST com autenticação JWT, regras de negócio e controle de dados — sempre buscando simular cenários reais de mercado.
 
 ---
 
-##  Principais conhecimentos
-- Desenvolvimento Back-end
-- Programação orientada a objetos
-- Integração com bancos de dados
-- Versionamento de código com Git
-- Containerização com Docker (conceitos iniciais)
+##  O que estou aprendendo
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,cs,dotnet" />
+</p>
 
 ---
 
-##  Objetivo profissional
+##  Ferramentas e Tecnologias
 
-Busco uma oportunidade como **desenvolvedor Back-end (estágio ou júnior)**, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções bem estruturadas e de qualidade.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postgresql,mysql" />
+</p>
+
+---
+
+##  Projetos e Iniciativas
+
+### 🎬 CineReserve API
+
+Sistema de reservas de cinema com controle de assentos e autenticação JWT.
+
+🔹 API REST completa com Django
+🔹 Validação para evitar reservas duplicadas
+🔹 Sistema de sessões e compra de ingressos
+🔹 Documentação com Swagger
+
+🔗 https://github.com/jacksondls/cine-reserve-api
+
+---
+
+##  Metas
+
+* Conseguir minha primeira oportunidade como desenvolvedor
+* Evoluir em C# e .NET
+* Aprimorar arquitetura de APIs
 
 ---
 
 ##  Contato
 
-- 💼 LinkedIn: https://linkedin.com/in/jackson-silva-05baaa20a/
-- 📧 Email: jacksondlsiilva@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/jackson-silva-05baaa20a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+⭐ Sempre aprendendo, evoluindo e construindo soluções reais.
